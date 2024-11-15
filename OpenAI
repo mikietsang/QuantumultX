@@ -1,4 +1,4 @@
-# NAME: JP
+# NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:18:28
@@ -9,12 +9,12 @@
 # IP-CIDR: 2
 # TOTAL: 36
 HOST,browser-intake-datadoghq.com,JP
-HOST,chat.JP.com.cdn.cloudflare.net,JP
+HOST,chat.openai.com.cdn.cloudflare.net,JP
 HOST,gemini.google.com,JP
-HOST,JP-api.arkoselabs.com,JP
-HOST,JPcom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,JP
-HOST,JPcomproductionae4b.blob.core.windows.net,JP
-HOST,production-JPcom-storage.azureedge.net,JP
+HOST,openai-api.arkoselabs.com,JP
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,JP
+HOST,openaicomproductionae4b.blob.core.windows.net,JP
+HOST,production-openaicom-storage.azureedge.net,JP
 HOST,static.cloudflareinsights.com,JP
 HOST-SUFFIX,ai.com,JP
 HOST-SUFFIX,algolia.net,JP
@@ -33,14 +33,14 @@ HOST-SUFFIX,launchdarkly.com,JP
 HOST-SUFFIX,oaistatic.com,JP
 HOST-SUFFIX,oaiusercontent.com,JP
 HOST-SUFFIX,observeit.net,JP
-HOST-SUFFIX,JP.com,JP
-HOST-SUFFIX,JPapi-site.azureedge.net,JP
-HOST-SUFFIX,JPcom.imgix.net,JP
+HOST-SUFFIX,openai.com,JP
+HOST-SUFFIX,openaiapi-site.azureedge.net,JP
+HOST-SUFFIX,openaicom.imgix.net,JP
 HOST-SUFFIX,segment.io,JP
 HOST-SUFFIX,sentry.io,JP
 HOST-SUFFIX,stripe.com,JP
 HOST-SUFFIX,turn.livekit.cloud,JP
-HOST-KEYWORD,JP,JP
+HOST-KEYWORD,openai,JP
 IP-CIDR,24.199.123.28/32,JP
 IP-CIDR,64.23.132.171/32,JP
 IP-ASN,20473,JP
