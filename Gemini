@@ -1,0 +1,21 @@
+# NAME: Gemini
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:18:30
+# HOST: 3
+# HOST-KEYWORD: 3
+# HOST-SUFFIX: 7
+# TOTAL: 13
+HOST,ai.google.dev,JP
+HOST,alkalimakersuite-pa.clients6.google.com,JP
+HOST,makersuite.google.com,JP
+HOST-SUFFIX,bard.google.com,JP
+HOST-SUFFIX,deepmind.com,JP
+HOST-SUFFIX,deepmind.google,JP
+HOST-SUFFIX,gemini.google.com,JP
+HOST-SUFFIX,generativeai.google,JP
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,JP
+HOST-SUFFIX,apis.google.com,JP
+HOST-KEYWORD,colab,JP
+HOST-KEYWORD,developerprofiles,JP
+HOST-KEYWORD,generativelanguage,JP
