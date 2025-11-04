@@ -8,3 +8,12 @@ HOST-SUFFIX,gspe1-ssl.ls.apple.com
 HOST-SUFFIX,apps.mzstatic.com
 HOST-SUFFIX,smoot.apple.com
 HOST-KEYWORD,apple-relay
+HOST,apple-relay.apple.com
+HOST,apple-relay.fastly-edge.com
+HOST,apple-relay.cloudflare.com
+HOST,gateway.icloud.com
+HOST,guzzoni.apple.com
+HOST,cp4.cloudflare.com
+HOST,gspe1-ssl.ls.apple.com
+HOST,apps.mzstatic.com
+HOST,smoot.apple.com
